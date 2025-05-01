@@ -1,4 +1,4 @@
-# Developer Dashboard Package
+# HyperDev - Developer Dashboard
 
 ## Overview
 The Developer Dashboard Package is a modular solution designed to give developers a unified, powerful interface for managing and monitoring all aspects of their projects. It aggregates essential tools—from performance monitoring and request tracking to user management and maintenance controls—into one central dashboard, streamlining workflow and enabling real-time decision-making.
